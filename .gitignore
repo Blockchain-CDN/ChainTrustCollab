@@ -4,7 +4,7 @@ node_modules
 # Hardhat files
 /cache
 /artifacts
-
+/Gas_Report.md
 # TypeChain files
 /typechain
 /typechain-types
@@ -15,4 +15,3 @@ node_modules
 
 # Hardhat Ignition default folder for deployments against a local node
 ignition
-/Gas_Report.md
